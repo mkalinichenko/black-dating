@@ -196,7 +196,7 @@ input, button, select {
     position: relative;
     width: 100%;
     height: 80rem;
-    background-image: url(/images/background.jpg);
+    background-image: url(../images/background.jpg);
     background-attachment: fixed;
     background-size: cover;
 }
